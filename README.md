@@ -313,5 +313,6 @@ This project demonstrates practical implementation of:
 
 ## Authors
 
-Atharv Kulkarni & Arya M.G
+Atharv Kulkarni  &  Arya M.G
+
 P.E.S. College
