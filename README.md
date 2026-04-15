@@ -1,4 +1,4 @@
-<img width="1862" height="1169" alt="1_Multicontainer" src="https://github.com/user-attachments/assets/7eee869b-358a-4ba9-8b80-948d0b2546b8" /># OS Jackfruit — Lightweight Container Runtime
+# OS Jackfruit — Lightweight Container Runtime
 
 ---
 
@@ -118,6 +118,8 @@ Two containers (alpha and beta) running simultaneously.
 ---
 
 ### Screenshot 2 — Metadata tracking
+<img width="699" height="334" alt="2_Meta_data" src="https://github.com/user-attachments/assets/6f1670b9-e188-4035-b256-e63b53c0a2af" />
+
 
 Command:
 
@@ -130,6 +132,8 @@ Shows container PID and CPU usage.
 ---
 
 ### Screenshot 3 — Bounded-buffer logging
+<img width="919" height="1170" alt="3_Bounded_buffer_logging" src="https://github.com/user-attachments/assets/bda80c4b-388c-4fd0-9d47-4a1d272b3d7d" />
+
 
 Command:
 
@@ -142,6 +146,8 @@ Shows logs produced by containers using producer-consumer model.
 ---
 
 ### Screenshot 4 — CLI and IPC
+<img width="1859" height="1177" alt="4_CLI_IPC" src="https://github.com/user-attachments/assets/4bddcdee-523f-4242-956b-c51e14cc1b1f" />
+
 
 Commands executed through CLI:
 
@@ -156,6 +162,8 @@ Shows interaction between user and runtime.
 ---
 
 ### Screenshot 5 — Soft-limit warning
+<img width="1849" height="417" alt="5 6_Soft Hard_Limit" src="https://github.com/user-attachments/assets/ad12d1ee-af2e-42f3-b73d-2f602ae1505a" />
+
 
 Command:
 
@@ -168,6 +176,8 @@ Output shows soft limit warning.
 ---
 
 ### Screenshot 6 — Hard-limit enforcement
+<img width="1849" height="417" alt="5 6_Soft Hard_Limit" src="https://github.com/user-attachments/assets/bf3c7b40-9e58-41c3-ba4d-051474e5b6ec" />
+
 
 Command:
 
@@ -180,6 +190,8 @@ Shows container termination after exceeding hard limit.
 ---
 
 ### Screenshot 7 — Scheduling experiment
+<img width="814" height="790" alt="7_Scheduler" src="https://github.com/user-attachments/assets/90b88924-73d1-4259-8711-eb9aef3e328b" />
+
 
 Command:
 
@@ -195,6 +207,8 @@ Shows CPU usage difference:
 ---
 
 ### Screenshot 8 — Clean teardown
+<img width="1033" height="84" alt="8_Clean_teardown" src="https://github.com/user-attachments/assets/c5f966fb-1ff9-4758-9ff6-4672b5475796" />
+
 
 Command:
 
